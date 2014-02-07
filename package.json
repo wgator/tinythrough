@@ -1,0 +1,20 @@
+{
+  "name": "tinythrough",
+  "version": "0.0.1",
+  "description": "A small wrapper around Node stream.Transform implementing v0.10 API",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgator/tinythrough.git"
+  },
+  "keywords": [
+    "stream",
+    "through",
+    "transform"
+  ],
+  "author": "Rafael Correia",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
